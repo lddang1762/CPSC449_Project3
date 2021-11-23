@@ -1,0 +1,7 @@
+id,username,text,timestamp,repostId
+0,Arkadbe,#First,2011-11-04,-1
+1,Buggyna,#Second,2011-11-05,-1
+2,Champob,#Third,2011-11-06,-1
+3,ChooseRead,#Fourth,2011-11-07,-1
+4,Dancent,#Fifth,2011-11-08,-1
+5,Arkadbe,#Fifth,2012-03-01,http://localhost:8100/posts/4

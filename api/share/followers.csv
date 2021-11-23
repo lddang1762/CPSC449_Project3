@@ -1,0 +1,12 @@
+id,username,followername
+0,Arkadbe,Buggyna
+1,Arkadbe,Champob
+2,Arkadbe,ChooseRead
+3,Buggyna,Arkadbe
+4,Buggyna,Dancent
+5,Champob,Arkadbe
+6,Champob,Buggyna
+7,Champob,Dancent
+8,ChooseRead,Arkadbe
+9,Dancent,Buggyna
+10,Dancent,Champob

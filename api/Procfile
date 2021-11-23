@@ -1,0 +1,5 @@
+api_user: gunicorn --access-logfile - --capture-output -p $PORT api_user:__hug_wsgi__
+api_timeline: gunicorn --access-logfile - --capture-output -p $PORT api_timeline:__hug_wsgi__
+api_like: gunicorn --access-logfile - --capture-output -p $PORT api_like:__hug_wsgi__
+api_poll: gunicorn --access-logfile - --capture-output -p $PORT api_poll:__hug_wsgi__
+registry: gunicorn --access-logfile - --capture-output -p $PORT registry:__hug_wsgi__
